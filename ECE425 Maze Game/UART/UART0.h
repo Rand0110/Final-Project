@@ -12,7 +12,7 @@
  *
  * @note Assumes that the frequency of the system clock is 50 MHz.
  *
- * @author Aaron Nanas
+ * @author Randy Ortiz
  */
 
 #include "TM4C123GH6PM.h"

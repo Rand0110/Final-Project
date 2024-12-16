@@ -1,5 +1,13 @@
-#ifndef MAZEGAME_H
-#define MAZEGAME_H
+/**
+ * @file MazeGame.h
+ *
+ * @brief Header file for the MazeGame driver.
+ *
+ * This file contains the function definitions for the MazeGame driver.
+ *
+ * @author Randy Ortiz
+ */
+
 
 // Maze dimensions (Maximum)
 #define MAX_ROWS 23

@@ -1,3 +1,13 @@
+/**
+ * @file MazeGame.c
+ *
+ * @brief Source code for the MazeGame driver.
+ *
+ * This file contains the function definitions for the MazeGame driver.1
+ *
+ * @author Randy Ortiz
+ */
+
 #include "MazeGame.h"
 #include "UART0.h"
 #include "SysTick_Delay.h"

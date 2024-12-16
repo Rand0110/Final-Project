@@ -1,6 +1,6 @@
-# ECE 425L - Microprocessor Systems Lab
+# ECE 425 - Maze Game
 **CSU Northridge**
 
-**Department of Electrical and Computer Engineering**
+**by Randy Ortiz**
 
-## UART Lab
+## Final Project
